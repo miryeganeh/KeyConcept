@@ -1,0 +1,301 @@
+Query#,NounePhrase,label,P(ci|q)
+1,Airbus Industrie,1,0.427230047
+1,trade dispute,0,0.241197183
+2,sanctions,0,0.866666667
+2,Document,0,0.1
+3,200 million dollars,0,0.947730399
+3,leveraged buyout,1,0.050894085
+4,contract or preliminary agreement,1,0.350982067
+4,tentative reservation,0,0.295473954
+5,insider-trading case,1,0.998748436
+5,Document,0,0.001251564
+6,prime lending rate,1,0.51119403
+6,actual prime rate move,0,0.455223881
+7,Bell System breakup,0,0.778531073
+7,MCI,1,0.220338983
+8,ongoing rail strike,1,0.528277635
+8,rail strike or report,0,0.470437018
+9,weather event,1,0.482849604
+9,least one fatality,0,0.45646438
+10,seniority or longevity,1,0.371945701
+10,salary levels and incentive pay,0,0.331221719
+11,Iran-Contra Affair,1,0.724137931
+11,role,0,0.137931034
+12,country,0,0.537037037
+12,military coup,1,0.407407407
+13,machine translation system,1,0.991869919
+13,Document,0,0.008130081
+14,event or result,1,0.997572816
+14,Document,0,0.002427184
+15,information retrieval system,1,0.983870968
+15,type,0,0.012672811
+16,natural language processing technology,1,0.86935867
+16,U.S.,0,0.104513064
+17,country involving citizens,0,0.393005062
+17,current civil disturbance,1,0.168430741
+18,actual studies,0,0.227672621
+18,safety,0,0.109570781
+19,U.S.,0,0.902439024
+19,attempt,1,0.073170732
+20,judicial proceedings and opinions,0,0.474048443
+20,surrogate motherhood,1,0.422145329
+21,land air or water,0,0.345959596
+21,incursions,1,0.308080808
+22,movement,1,0.445454545
+22,U.S.,0,0.1
+23,movement,1,0.822
+23,one country,0,0.138
+24,U.S.,0,0.846153846
+24,instance,1,0.076923077
+25,which automation,1,0.922666667
+25,instance,0,0.069333333
+26,or debate,0,0.595121951
+26,original intent,1,0.318699187
+27,poaching method,1,0.54028436
+27,certain type,0,0.278266757
+28,Greenpeace,1,0.683383234
+28,their environmental protection goals,0,0.307634731
+29,political social economic military environmental or international objective,0,0.53238342
+29,least one German political party and report,1,0.448186528
+30,1988 presidential candidate,1,0.718456726
+30,platform,0,0.27632951
+31,aftermath,0,0.513108614
+31,televangelist,0,0.208489388
+32,genetic engineering application,1,0.343933054
+32,genetic engineering,0,0.306276151
+33,plans projects agreements treaties or laws,0,0.440963855
+33,atmosphere,1,0.319277108
+34,renewable energy plant or equipment installations,1,0.526923077
+34,or under-construction alternative,0,0.469230769
+35,allegations or measures,0,0.338575393
+35,corrupt public officials,1,0.320074006
+36,United States specifying name location assets and federal or state authorities taking action,0,0.526923077
+36,recent bank failures,1,0.469230769
+37,current criminal actions,1,0.731501057
+37,officers,0,0.188160677
+38,quantitative data,0,0.499317872
+38,Document,0,0.001364256
+39,existing or pending investment,0,0.472957422
+39,OPEC member state,1,0.421173763
+40,reserve figures,0,0.474517906
+40,or specific data,0,0.283057851
+41,U.S.,0,0.785714286
+41,acquisition,1,0.196428571
+42,military equipment,1,0.785714286
+42,sale,0,0.142857143
+43,NRA,0,0.566801619
+43,National Rifle Association,1,0.333140544
+44,crime,1,0.55
+44,Document,0,0.15
+45,computer application,1,0.625794732
+45,crime,0,0.373297003
+46,medical diagnosis,1,0.524234694
+46,computer programs or computerized equipment,0,0.466836735
+47,fiber optics technology,1,0.91959799
+47,instances,0,0.065326633
+48,individuals or organizations,0,0.524904215
+48,fiber optics equipment,1,0.46743295
+49,Iran-Contra Affair,1,0.75
+49,development,0,0.142857143
+50,high-tech goods,1,0.468629962
+50,technologies,0,0.04737516
+51,configuration components and technology,0,0.772151899
+51,anti-missile defense system,1,0.14556962
+52,Strategic Defense Initiative,1,0.605678233
+52,laser research,0,0.384858044
+53,U.S.,0,0.676031607
+53,proposed or enacted changes,1,0.321334504
+54,U.S.,1,0.651832461
+54,provisions,0,0.346858639
+55,U.S.,1,0.982142857
+55,reasons,0,0.014030612
+56,U.S.,1,0.994252874
+56,Document,0,0.002873563
+57,Japan s regulation,1,0.937669377
+57,insider trading,0,0.059620596
+58,Japan s domestic market,0,0.53238342
+58,Japanese policies or practices,1,0.448186528
+59,Computer Systems Inc.,1,0.512234043
+59,OTC Ltd.,0,0.301595745
+60,South Africa,0,0.917443409
+60,black majority,1,0.029294274
+61,non-nuclear weapons states,0,0.339388935
+61,proliferation,0,0.302229562
+62,much money worldwide is,0,0.442887931
+62,biotechnology arena,1,0.372844828
+63,non-traditional applications,0,0.528277635
+63,space satellite technology,1,0.470437018
+64,non-commercial space satellites,1,0.982954545
+64,data,0,0.014204545
+65,specific consequence,0,0.923611111
+65,1986,0,0.063657407
+66,brand name drug,1,0.386075949
+66,generic drug,0,0.176160338
+67,least one datum,0,0.330152672
+67,capacity,0,0.003816794
+68,background information,0,0.50925335
+68,international terrorist groups or individuals or detail,1,0.26228462
+69,international terrorists,1,0.648775895
+69,political authorities,0,0.344632768
+70,international terrorism,1,0.528277635
+70,private sector economic consequences,0,0.470437018
+71,prominent U.S.,0,0.907773386
+71,life and death,1,0.090909091
+72,RDT & E,0,0.358013937
+72,research development testing and evaluation,0,0.318815331
+73,linkages,0,0.219786096
+73,environmental factors or chemicals,1,0.195721925
+74,innovative approaches,1,0.981233244
+74,cancer,0,0.010723861
+75,public authorities,1,0.48899929
+75,tobacco,0,0.018452803
+76,ethical issues attendant,0,0.345668629
+76,medical technology,1,0.307821699
+77,terms,0,0.297297297
+77,arms,1,0.108108108
+78,business businesses or shares,0,0.35218509
+78,current or future sale,0,0.313624679
+79,USSR,1,0.740463725
+79,U.S.,0,0.258788332
+80,Jewish emigration,1,0.770693512
+80,#NAME?,0,0.186800895
+81,McDonnell Douglas,1,0.708850932
+81,military aircraft,0,0.284161491
+82,or performance data,0,0.540078844
+82,U.S.,1,0.454664915
+83,Hubble Space Telescope,1,0.590047393
+83,design feature,0,0.408175355
+84,human genome project,1,0.683804627
+84,objectives processes and organization,0,0.313624679
+85,potential medical contributions such information,0,0.431269675
+85,human diseases,1,0.384050367
+86,Pacific Telesis,1,0.37962578
+86,its basic business,0,0.331808732
+87,U.S.,0,0.715517241
+87,theme park,0,0.239942529
+88,Lebanon,0,0.515789474
+88,Western hostages,1,0.439473684
+89,Iran s Islamic Revolution,1,0.504294479
+89,religious legal cultural and social consequences,0,0.424539877
+90,political impact,0,0.512446873
+90,Islamic fundamentalism,1,0.484517304
+91,Japanese efforts,1,0.540789474
+91,U.S.,0,0.455263158
+92,national governments,0,0.251373626
+92,policies impact,0,0.237637363
+93,U.S.,1,0.713467049
+93,analysis,0,0.280802292
+94,corruption incompetence or inefficiency,0,0.509925558
+94,United Nation s staff activities or specialized agencies,1,0.454094293
+95,pro-Israel lobby,0,0.989189189
+95,United States,0,0.008108108
+96,Nicaraguan civil war,1,0.797385621
+96,negotiating process,0,0.193899782
+97,productivity statistics,0,0.507956715
+97,U.S.,0,0.490133673
+98,Ethiopia and Somalia,0,0.355339806
+98,Ethiopia-Somalia War civil wars,1,0.33592233
+99,industrial espionage,1,0.997572816
+99,Document,0,0.002427184
+100,U.S.,1,0.96
+100,Document,0,0.04
+101,overcrowded condition,0,0.686746988
+101,jail and prison overcrowding,1,0.297762478
+102,U.S.,0,0.569105691
+102,alleged illegality,1,0.255728012
+103,insurance coverage,0,0.511888112
+103,long term care confinements,1,0.483916084
+104,major oil spills,1,0.990361446
+104,world,0,0.007228916
+105,Wing Christian Fundamentalist Groups,1,0.754993342
+105,political process,0,0.118508655
+106,Gun Control Legislation,1,0.995863495
+106,efforts,0,0.003102378
+107,multiple sclerosis,1,0.28549142
+107,causes,0,0.206708268
+108,controversial proposals,0,0.486966825
+108,Documents,0,0.013033175
+109,electric car,1,0.891620112
+109,relevant document,0,0.099441341
+110,vitamins,0,0.527777778
+110,human diseases or ailments or documents,0,0.228835979
+111,problems and actions,0,0.700170358
+111,acid rain,1,0.284497445
+112,type and purpose,0,0.482849604
+112,American or Foreign automobile companies,1,0.45646438
+113,South Vietnam,1,0.554723502
+113,U.S.,0,0.443548387
+114,generic drug manufacturers,1,0.456359102
+114,FDA or Congressional investigations,0,0.431421446
+115,tobacco industry,1,0.830845771
+115,its advertising,0,0.109452736
+116,standardized testing,1,0.640449438
+116,racial minorities women,0,0.277688604
+117,television or videos,0,0.323877069
+117,relevant document,0,0.288416076
+118,AMTRAK,0,0.574937028
+118,National Railroad Transportation Corporation,1,0.258816121
+119,cost figure,0,0.388606881
+119,garbage or trash removal,1,0.20642978
+120,proper testing,0,0.249006144
+120,Dow-Corning Corporation,0,0.20491507
+121,investment alternative,0,0.49137931
+121,mutual funds,0,0.253078818
+122,psychiatric services,0,0.481145251
+122,cessation,0,0.255586592
+123,various modes,0,0.459677419
+123,smoking bans,1,0.210829493
+124,Superfund 124 Program,1,0.686514886
+124,Comprehensive Environmental Response Compensation and Liability Act,0,0.302977233
+125,proliferation,0,0.787356322
+125,legislation,0,0.086206897
+126,private investigator,1,0.75862069
+126,work,0,0.137931034
+127,standard language,1,0.779296875
+127,arguments,0,0.19140625
+128,U.S.,0,0.829652997
+128,dogs,1,0.082018927
+129,U.S.,1,0.827586207
+129,countries,0,0.103448276
+130,sanction activities,1,0.35770235
+130,ineffective results,0,0.301131419
+131,nursing homes and other facilities,0,0.523566879
+131,skilled medical and nonmedical personnel and family members,1,0.440764331
+132,world s food fish population,1,0.33032491
+132,information,0,0.002707581
+133,lungs or mesothelioma,0,0.331808732
+133,asbestos,0,0.170893971
+134,fraud,0,0.590200445
+134,pension plans,1,0.371937639
+135,U.S.,0,0.906896552
+135,welfare system,1,0.075862069
+136,educational learning levels,1,0.519595449
+136,inner city and other public school students,0,0.462705436
+137,person or company,0,0.401756312
+137,their business or publication,1,0.379802415
+138,beach erosion,1,0.886198547
+138,U.S.,0,0.05811138
+139,true case,0,0.671152229
+139,murderer s motive,1,0.307821699
+140,electronic computer,0,0.955801105
+140,instances,0,0.011049724
+141,attempt or idea,1,0.921524664
+141,U.S.,0,0.053811659
+142,Exxon Valdez,0,0.804597701
+142,oil spills,1,0.137110016
+143,consumer safety groups and parents,1,0.493261456
+143,activities,0,0.005390836
+144,their writing efforts,0,0.903394256
+144,writers,1,0.067885117
+145,negative instances,0,0.350682594
+145,stock market shifts,1,0.295221843
+146,elementary and secondary students,0,0.591549296
+146,proposed or actual government financed voucher system,1,0.304670126
+147,injured party,0,0.644366197
+147,judgement,0,0.156690141
+148,medical condition or illness,0,0.616191904
+148,medical science,0,0.293853073
+149,competent person,0,0.47471743
+149,assisted action,0,0.244497323
+150,foreign textiles or textile products,1,0.609792285
+150,U.S.,0,0.390207715

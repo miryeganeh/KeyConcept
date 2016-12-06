@@ -1,0 +1,424 @@
+<topics>
+    <query identifier="051">
+        <title>Airbus Subsidies</title>
+        <desc>Document will discuss government assistance to Airbus Industrie, or mention a trade dispute between Airbus and a U.S. aircraft producer over the issue of subsidies.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">government assistance</NounePhrase>
+        <NounePhrase weight="0">Airbus Industrie</NounePhrase>
+        <NounePhrase weight="0">trade dispute</NounePhrase>
+        <NounePhrase weight="0">Airbus</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="052">
+        <title>South African Sanctions</title>
+        <desc>Document discusses sanctions against South Africa.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">sanctions</NounePhrase>
+        <NounePhrase weight="0">South Africa</NounePhrase>
+    </query>
+    <query identifier="053">
+        <title>Leveraged Buyouts</title>
+        <desc>Document mentions a leveraged buyout valued at or above 200 million dollars.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">leveraged buyout</NounePhrase>
+        <NounePhrase weight="0">200 million dollars</NounePhrase>
+    </query>
+    <query identifier="054">
+        <title>Satellite Launch Contracts</title>
+        <desc>Document will cite the signing of a contract or preliminary agreement, or the making of a tentative reservation, to launch a commercial satellite.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">contract or preliminary agreement</NounePhrase>
+        <NounePhrase weight="0">tentative reservation</NounePhrase>
+        <NounePhrase weight="0">commercial satellite</NounePhrase>
+    </query>
+    <query identifier="055">
+        <title>Insider Trading</title>
+        <desc>Document discusses an insider-trading case.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">insider-trading case</NounePhrase>
+    </query>
+    <query identifier="056">
+        <title>Prime (Lending) Rate Moves, Predictions</title>
+        <desc>Document will include a prediction about the prime lending rate, or will report an actual prime rate move.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">prediction</NounePhrase>
+        <NounePhrase weight="0">prime lending rate</NounePhrase>
+        <NounePhrase weight="0">actual prime rate move</NounePhrase>
+    </query>
+    <query identifier="057">
+        <title>MCI</title>
+        <desc>Document will discuss how MCI has been doing since the Bell System breakup.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">MCI</NounePhrase>
+        <NounePhrase weight="0">Bell System breakup</NounePhrase>
+    </query>
+    <query identifier="058">
+        <title>Rail Strikes</title>
+        <desc>Document will predict or anticipate a rail strike or report an ongoing rail  strike.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">rail strike or report</NounePhrase>
+        <NounePhrase weight="0">ongoing rail strike</NounePhrase>
+    </query>
+    <query identifier="059">
+        <title>Weather Related Fatalities</title>
+        <desc>Document will report a type of weather event which has directly caused at least one fatality in some location.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">type</NounePhrase>
+        <NounePhrase weight="0">weather event</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">least one fatality</NounePhrase>
+        <NounePhrase weight="0">location</NounePhrase>
+    </query>
+    <query identifier="060">
+        <title>Merit-Pay vs. Seniority</title>
+        <desc>Document will describe either one or both sides of the controversy over the use of standards of performance to determine salary levels and incentive pay as contrasted with determining pay solely on the basis of seniority or longevity on the job.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">one</NounePhrase>
+        <NounePhrase weight="0">sides</NounePhrase>
+        <NounePhrase weight="0">controversy</NounePhrase>
+        <NounePhrase weight="0">use</NounePhrase>
+        <NounePhrase weight="0">standards</NounePhrase>
+        <NounePhrase weight="0">performance</NounePhrase>
+        <NounePhrase weight="0">salary levels and incentive pay</NounePhrase>
+        <NounePhrase weight="0">pay</NounePhrase>
+        <NounePhrase weight="0">basis</NounePhrase>
+        <NounePhrase weight="0">seniority or longevity</NounePhrase>
+        <NounePhrase weight="0">job</NounePhrase>
+    </query>
+    <query identifier="061">
+        <title>Israeli Role in Iran-Contra Affair</title>
+        <desc>Document will discuss the role of Israel in the Iran-Contra Affair.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">role</NounePhrase>
+        <NounePhrase weight="0">Israel</NounePhrase>
+        <NounePhrase weight="0">Iran-Contra Affair</NounePhrase>
+    </query>
+    <query identifier="062">
+        <title>Military Coups D'etat</title>
+        <desc>Document will report a military coup d'etat, either attempted or successful, in any country.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">military coup</NounePhrase>
+        <NounePhrase weight="0">country</NounePhrase>
+    </query>
+    <query identifier="063">
+        <title>Machine Translation</title>
+        <desc>Document will identify a machine translation system.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">machine translation system</NounePhrase>
+    </query>
+    <query identifier="064">
+        <title>Hostage-Taking</title>
+        <desc>Document will report an event or result of politically motivated hostage-taking.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">event or result</NounePhrase>
+    </query>
+    <query identifier="065">
+        <title>Information Retrieval Systems</title>
+        <desc>Document will identify a type of information retrieval system.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">type</NounePhrase>
+        <NounePhrase weight="0">information retrieval system</NounePhrase>
+    </query>
+    <query identifier="066">
+        <title>Natural Language Processing</title>
+        <desc>Document will identify a type of natural language processing technology which is being developed or marketed in the U.S.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">type</NounePhrase>
+        <NounePhrase weight="0">natural language processing technology</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="067">
+        <title>Politically Motivated Civil Disturbances</title>
+        <desc>Document will report a current civil disturbance in any country, involving citizens of that country protesting a political position of their own country's government.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">current civil disturbance</NounePhrase>
+        <NounePhrase weight="0">country , involving citizens</NounePhrase>
+        <NounePhrase weight="0">country</NounePhrase>
+        <NounePhrase weight="0">political position</NounePhrase>
+        <NounePhrase weight="0">their own country 's government</NounePhrase>
+    </query>
+    <query identifier="068">
+        <title>Health Hazards from Fine-Diameter Fibers</title>
+        <desc>Document will report actual studies, or even unsubstantiated concerns about the safety to manufacturing employees and installation workers of fine-diameter fibers used in insulation and other products.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">actual studies</NounePhrase>
+        <NounePhrase weight="0">unsubstantiated concerns</NounePhrase>
+        <NounePhrase weight="0">safety</NounePhrase>
+        <NounePhrase weight="0">manufacturing employees and installation workers</NounePhrase>
+        <NounePhrase weight="0">fine-diameter fibers</NounePhrase>
+        <NounePhrase weight="0">insulation and other products</NounePhrase>
+    </query>
+    <query identifier="069">
+        <title>Attempts to Revive the SALT II Treaty</title>
+        <desc>Document will report an attempt by the U.S. House of Representatives or a European country to revive the SALT II Treaty ceilings on weapons in order to limit President Reagan's military build up.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">attempt</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="070">
+        <title>Surrogate Motherhood</title>
+        <desc>Document will report judicial proceedings and opinions on contracts for surrogate motherhood.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">judicial proceedings and opinions</NounePhrase>
+        <NounePhrase weight="0">contracts</NounePhrase>
+        <NounePhrase weight="0">surrogate motherhood</NounePhrase>
+    </query>
+    <query identifier="071">
+        <title>Border Incursions</title>
+        <desc>Document will report incursions by land, air, or water into the border area of one country by military forces of a second country or a guerrilla group based in a second country.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">incursions</NounePhrase>
+        <NounePhrase weight="0">land , air , or water</NounePhrase>
+        <NounePhrase weight="0">border area</NounePhrase>
+        <NounePhrase weight="0">one country</NounePhrase>
+        <NounePhrase weight="0">military forces</NounePhrase>
+        <NounePhrase weight="0">second country</NounePhrase>
+        <NounePhrase weight="0">guerrilla group</NounePhrase>
+        <NounePhrase weight="0">second country</NounePhrase>
+    </query>
+    <query identifier="072">
+        <title>Demographic Shifts in the U.S.</title>
+        <desc>Document will report a movement of people from one area of the U.S. to another for a variety of reasons. The movement of population described should be large enough to have some economic impact.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">movement</NounePhrase>
+        <NounePhrase weight="0">people</NounePhrase>
+        <NounePhrase weight="0">one area</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="073">
+        <title>Demographic Shifts across National Boundaries</title>
+        <desc>Document will report a movement of people from one country to another for a variety of reasons. The movement of population described should be large enough to have some economic impact.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">movement</NounePhrase>
+        <NounePhrase weight="0">people</NounePhrase>
+        <NounePhrase weight="0">one country</NounePhrase>
+        <NounePhrase weight="0">variety</NounePhrase>
+        <NounePhrase weight="0">reasons</NounePhrase>
+    </query>
+    <query identifier="074">
+        <title>Conflicting Policy</title>
+        <desc>Document will cite an instance in which the U.S. government propounds two  conflicting or opposing policies.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">instance</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="075">
+        <title>Automation</title>
+        <desc>Document will identify an instance in which automation has clearly paid off, or conversely, has failed.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">instance</NounePhrase>
+        <NounePhrase weight="0">which automation</NounePhrase>
+    </query>
+    <query identifier="076">
+        <title>U.S. Constitution - Original Intent</title>
+        <desc>Document will include a discussion of, or debate over, the issue of the original intent of the U.S. Constitution, or the meaning of a particular amendment to the Constitution, or will present an individual's interpretation of an amendment.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">discussion</NounePhrase>
+        <NounePhrase weight="0">, or debate</NounePhrase>
+        <NounePhrase weight="0">issue</NounePhrase>
+        <NounePhrase weight="0">original intent</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="077">
+        <title>Poaching</title>
+        <desc>Document will report a poaching method used against a certain type of wildlife.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">poaching method</NounePhrase>
+        <NounePhrase weight="0">certain type</NounePhrase>
+        <NounePhrase weight="0">wildlife</NounePhrase>
+    </query>
+    <query identifier="078">
+        <title>Greenpeace</title>
+        <desc>Document will report activity by Greenpeace to carry out their environmental protection goals.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">activity</NounePhrase>
+        <NounePhrase weight="0">Greenpeace</NounePhrase>
+        <NounePhrase weight="0">their environmental protection goals</NounePhrase>
+    </query>
+    <query identifier="079">
+        <title>FRG Political Party Positions</title>
+        <desc>Document will identify at least one German political party and report some position which the party has taken in regard to a political, social, economic, military, environmental, or international objective.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">least one German political party and report</NounePhrase>
+        <NounePhrase weight="0">position</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">party</NounePhrase>
+        <NounePhrase weight="0">regard</NounePhrase>
+        <NounePhrase weight="0">political , social , economic , military , environmental , or international objective</NounePhrase>
+    </query>
+    <query identifier="080">
+        <title>1988 Presidential Candidates Platforms</title>
+        <desc>Document will identify something about the platform of a 1988 presidential  candidate.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">something</NounePhrase>
+        <NounePhrase weight="0">platform</NounePhrase>
+        <NounePhrase weight="0">1988 presidential candidate</NounePhrase>
+    </query>
+    <query identifier="081">
+        <title>Financial crunch for televangelists in the wake of the PTL</title>
+        <desc>Document will report a loss of revenue of a televangelist in the aftermath of the PTL scandal, or a financial crisis triggered by the scandal.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">loss</NounePhrase>
+        <NounePhrase weight="0">revenue</NounePhrase>
+        <NounePhrase weight="0">televangelist</NounePhrase>
+        <NounePhrase weight="0">aftermath</NounePhrase>
+        <NounePhrase weight="0">PTL scandal</NounePhrase>
+        <NounePhrase weight="0">financial crisis</NounePhrase>
+        <NounePhrase weight="0">scandal</NounePhrase>
+    </query>
+    <query identifier="082">
+        <title>Genetic Engineering</title>
+        <desc>Document discusses a genetic engineering application, a product that has been, is being, or will be developed by genetic manipulation, or attitudes toward genetic engineering.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">genetic engineering application</NounePhrase>
+        <NounePhrase weight="0">product</NounePhrase>
+        <NounePhrase weight="0">that</NounePhrase>
+        <NounePhrase weight="0">genetic manipulation , or attitudes</NounePhrase>
+        <NounePhrase weight="0">genetic engineering</NounePhrase>
+    </query>
+    <query identifier="083">
+        <title>Measures to Protect the Atmosphere</title>
+        <desc>Document will discuss plans, projects, agreements, treaties, or laws concluded or under consideration aimed at protecting the atmosphere.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">plans , projects , agreements , treaties , or laws</NounePhrase>
+        <NounePhrase weight="0">consideration</NounePhrase>
+        <NounePhrase weight="0">atmosphere</NounePhrase>
+    </query>
+    <query identifier="084">
+        <title>Alternative/renewable Energy Plant &amp; Equipment Installation</title>
+        <desc>Document will identify planned or under-construction alternative/renewable energy plant or equipment installations.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">or under-construction alternative</NounePhrase>
+        <NounePhrase weight="0">renewable energy plant or equipment installations</NounePhrase>
+    </query>
+    <query identifier="085">
+        <title>Official Corruption</title>
+        <desc>Document will discuss allegations, or measures being taken against, corrupt public officials of any governmental jurisdiction worldwide.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">allegations , or measures</NounePhrase>
+        <NounePhrase weight="0">, corrupt public officials</NounePhrase>
+        <NounePhrase weight="0">governmental jurisdiction</NounePhrase>
+    </query>
+    <query identifier="086">
+        <title>Bank Failures</title>
+        <desc>Document will identify recent bank failures within the United States, specifying name, location, assets, and federal or state authorities taking action.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">recent bank failures</NounePhrase>
+        <NounePhrase weight="0">United States , specifying name , location , assets , and federal or state authorities taking action</NounePhrase>
+    </query>
+    <query identifier="087">
+        <title>Criminal Actions Against Officers of Failed</title>
+        <desc>Document will report on current criminal actions against officers of a failed U.S. financial institution.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">current criminal actions</NounePhrase>
+        <NounePhrase weight="0">officers</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="088">
+        <title>Crude Oil Price Trends</title>
+        <desc>Document will provide quantitative data usable in charting international crude oil price trends.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">quantitative data</NounePhrase>
+        <NounePhrase weight="0">charting international crude oil price trends</NounePhrase>
+    </query>
+    <query identifier="089">
+        <title>"Downstream" Investments by OPEC Member States</title>
+        <desc>Document must identify an existing or pending investment by an OPEC member state in any "downstream" operation.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">existing or pending investment</NounePhrase>
+        <NounePhrase weight="0">OPEC member state</NounePhrase>
+        <NounePhrase weight="0">operation</NounePhrase>
+    </query>
+    <query identifier="090">
+        <title>Data on Proven Reserves of Oil &amp; Natural Gas</title>
+        <desc>Document will provide totals or specific data on changes to the proven reserve figures for any oil or natural gas producer.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">or specific data</NounePhrase>
+        <NounePhrase weight="0">changes</NounePhrase>
+        <NounePhrase weight="0">reserve figures</NounePhrase>
+        <NounePhrase weight="0">oil or natural gas producer</NounePhrase>
+    </query>
+    <query identifier="091">
+        <title>U.S. Army Acquisition of Advanced Weapons Systems</title>
+        <desc>Document will identify acquisition by the U.S. Army of specified advanced weapons systems.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">acquisition</NounePhrase>
+        <NounePhrase weight="0">U.S.</NounePhrase>
+    </query>
+    <query identifier="092">
+        <title>International Military Equipment Sales</title>
+        <desc>Document will identify a proposed or recently concluded sale of military equipment in the international arms market.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">sale</NounePhrase>
+        <NounePhrase weight="0">military equipment</NounePhrase>
+        <NounePhrase weight="0">international arms</NounePhrase>
+    </query>
+    <query identifier="093">
+        <title>What Backing Does the National Rifle Association</title>
+        <desc>Document must describe or identify supporters of the National Rifle Association (NRA), or its assets.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">supporters</NounePhrase>
+        <NounePhrase weight="0">National Rifle Association</NounePhrase>
+        <NounePhrase weight="0">NRA</NounePhrase>
+        <NounePhrase weight="0">its assets</NounePhrase>
+    </query>
+    <query identifier="094">
+        <title>Computer-aided Crime</title>
+        <desc>Document must identify a crime perpetrated with the aid of a computer.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">crime</NounePhrase>
+        <NounePhrase weight="0">aid</NounePhrase>
+        <NounePhrase weight="0">computer</NounePhrase>
+    </query>
+    <query identifier="095">
+        <title>Computer-aided Crime Detection</title>
+        <desc>Document must describe a computer application to crime solving.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">computer application</NounePhrase>
+        <NounePhrase weight="0">crime</NounePhrase>
+    </query>
+    <query identifier="096">
+        <title>Computer-Aided Medical Diagnosis</title>
+        <desc>Document must describe computer programs, or computerized equipment, which aid in medical diagnosis.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">computer programs , or computerized equipment</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">medical diagnosis</NounePhrase>
+    </query>
+    <query identifier="097">
+        <title>Fiber Optics Applications</title>
+        <desc>Document must identify instances of fiber optics technology actually in use.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">instances</NounePhrase>
+        <NounePhrase weight="0">fiber optics technology</NounePhrase>
+        <NounePhrase weight="0">use</NounePhrase>
+    </query>
+    <query identifier="098">
+        <title>Fiber Optics Equipment Manufacturers</title>
+        <desc>Document must identify individuals or organizations which produce fiber optics equipment.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">individuals or organizations</NounePhrase>
+        <NounePhrase weight="0">which</NounePhrase>
+        <NounePhrase weight="0">fiber optics equipment</NounePhrase>
+    </query>
+    <query identifier="099">
+        <title>Iran-Contra Affair</title>
+        <desc>Document will identify a development in the Iran-Contra Affair.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">development</NounePhrase>
+        <NounePhrase weight="0">Iran-Contra Affair</NounePhrase>
+    </query>
+    <query identifier="100">
+        <title>Controlling the Transfer of High Technology</title>
+        <desc>Document will identify efforts by the non-communist, industrialized states to regulate the transfer of high-tech goods or "dual-use" technologies to undesirable nations.</desc>
+        <NounePhrase weight="0">Document</NounePhrase>
+        <NounePhrase weight="0">efforts</NounePhrase>
+        <NounePhrase weight="0">states</NounePhrase>
+        <NounePhrase weight="0">transfer</NounePhrase>
+        <NounePhrase weight="0">high-tech goods</NounePhrase>
+        <NounePhrase weight="0">technologies</NounePhrase>
+        <NounePhrase weight="0">undesirable nations</NounePhrase>
+    </query>
+</topics>
